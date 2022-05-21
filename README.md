@@ -13,4 +13,4 @@
 
 ## 카테고리
 
-### 📁 [프로그래머스](https://github.com/eeeesong/Algorithm/wiki/📁-프로그래머스)
+### 📁 [프로그래머스](https://github.com/HyeongseopLee/algorithm/wiki/%F0%9F%93%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
