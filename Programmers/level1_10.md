@@ -33,6 +33,5 @@ function solution(nums) {
   return filtered.length;
 }
 ```
-
 - 중첩 반복문
 - 소수는 1과 자기자신으로만 나누어 떨어지는 수이다. 소수는 정수 1보다 크다
